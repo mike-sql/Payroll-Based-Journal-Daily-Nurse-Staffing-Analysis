@@ -2,44 +2,38 @@
 Optimizing Workforce Efficiency in Long-Term Care Facilities  
 Author: Michael  
 Date: December 2024
-
-# Executive Summary
+## Executive Summary
 This report analyzes the Payroll-Based Journal (PBJ) Daily Nurse Staffing data for Q1 2024. The goal is to uncover staffing trends, identify opportunities for targeted sales strategies, and recommend actionable insights for Clipboard Health's leadership.
-
-# Key Findings:
+## Key Findings:
 States with the highest reliance on contractors.  
 Facilities with staffing shortages.  
 Regional trends that suggest growth opportunities.  
-
-# Data Overview
+## Data Overview
 Dataset: PBJ Daily Nurse Staffing (2024 Q1)  
 Data Source: Centers for Medicaid and Medicare Services (CMS)  
-
-# Key Columns Used:
+## Key Columns Used:
 STATE, COUNTY_NAME (location information).  
 Hrs_* columns (contractor and employee staffing hours).  
 MDScensus (resident census).  
-
-# Data Preparation Steps:
+## Data Preparation Steps:
 Created measures such as:  
 Contractor-to-employee hour ratio.  
 Staff-to-resident ratio.
-
-# Key Findings
+## Key Findings
 1. Contractor vs. Employee Staffing
 Insight: States like California and Texas have a high reliance on contractors (>60% of total staffing hours).
 Visual Example:
-
-(Replace with actual chart image URL)  
-2. Staff-to-Resident Ratio  
+(https://drive.google.com/file/d/16PIltP2tVsTKMK6DwFDbCTStOLrJbCsx/view?usp=sharing)  
+3. Staff-to-Resident Ratio  
 Insight: Facilities with low staff-to-resident ratios (e.g., <2.0) indicate potential staffing shortages.
-Visual Example:  
+Visual Example:
+(https://drive.google.com/file/d/1ojolKU1eY8ezYtV1fAbAirz3AlZZZ8FN/view?usp=sharing)
 
-3. Regional Contractor Trends
+4. Regional Contractor Trends
 Insight: Southeast regions have a higher proportion of contractor hours compared to employees, showing strong demand for temporary staffing.
 Visual Example:
 
-# Recommendations
+## Recommendations
 1. Focus Sales Efforts in High-Contractor States  
 Data Insight: High reliance on contractors in states like California and Florida.  
 Action: Prioritize sales outreach to nursing homes in these states.  
@@ -50,6 +44,6 @@ Action: Offer tailored solutions to these facilities, emphasizing Clipboard Heal
 Data Insight: Regions with high contractor hours (e.g., Southeast) suggest steady demand.  
 Action: Build long-term partnerships with facilities in these regions.  
 
-# Conclusion
+## Conclusion
 By targeting high-contractor states, addressing staffing shortages, and leveraging regional trends, Clipboard Health can strengthen its market presence and better serve long-term care facilities.
 
