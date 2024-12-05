@@ -12,9 +12,8 @@ Regional trends that suggest growth opportunities.
 Dataset: PBJ Daily Nurse Staffing (2024 Q1)  
 Data Source: Centers for Medicaid and Medicare Services (CMS)  
 ## Key Columns Used:
-STATE, COUNTY_NAME (location information).  
+STATE, City (location information).  
 Hrs_* columns (contractor and employee staffing hours).  
-MDScensus (resident census).  
 ## Data Preparation Steps:
 Created measures such as:  
 Contractor-to-employee hour ratio.  
@@ -22,16 +21,14 @@ Staff-to-resident ratio.
 ## Key Findings
 1. Contractor vs. Employee Staffing
 Insight: States like California and Texas have a high reliance on contractors (>60% of total staffing hours).
-Visual Example:
-(https://drive.google.com/file/d/16PIltP2tVsTKMK6DwFDbCTStOLrJbCsx/view?usp=sharing)  
+(https://github.com/mike-sql/Payroll-Based-Journal-Daily-Nurse-Staffing-Analysis/blob/main/Screenshot%202024-12-05%20042306.png)
+ 
 3. Staff-to-Resident Ratio  
-Insight: Facilities with low staff-to-resident ratios (e.g., <2.0) indicate potential staffing shortages.
-Visual Example:
-(https://drive.google.com/file/d/1ojolKU1eY8ezYtV1fAbAirz3AlZZZ8FN/view?usp=sharing)
+Insight: Facilities with low staff-to-resident ratios (e.g., <2.0) indicate potential staffing shortages.  
+(https://github.com/mike-sql/Payroll-Based-Journal-Daily-Nurse-Staffing-Analysis/blob/main/Screenshot%202024-12-05%20042441.png)
 
 4. Regional Contractor Trends
 Insight: Southeast regions have a higher proportion of contractor hours compared to employees, showing strong demand for temporary staffing.
-Visual Example:
 
 ## Recommendations
 1. Focus Sales Efforts in High-Contractor States  
