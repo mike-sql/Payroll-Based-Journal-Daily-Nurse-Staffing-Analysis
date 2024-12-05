@@ -2,8 +2,8 @@
 Information on Payroll-Based Journal staffing submitted by long term care facilities.
 
 # Staffing Trends and Insights for Clipboard Health: 2024 Q1
-Optimizing Workforce Efficiency in Long-Term Care Facilities
-Author: Michael
+Optimizing Workforce Efficiency in Long-Term Care Facilities  
+Author: Michael  
 Date: December 2024
 
 # Executive Summary
